@@ -33,15 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johan-hagman-63528b25b/)
 📧 **Email:** johan.hagman2025@gmail.com
 
----
 
-### 📊 **GitHub Stats**
-![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhagman&show_icons=true&theme=dark)
-
----
-
-### ☕ Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 
 
