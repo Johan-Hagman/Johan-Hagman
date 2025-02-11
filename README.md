@@ -2,6 +2,7 @@
 
 💻 **Fullstack Web Development Student** at Yrgo Yrkeshögskola  
 🚀 Learning both frontend and backend to build dynamic and responsive web applications
+🤝 I’m looking for an Internship for Dec 2025 - May 2026
 
 ---
 
@@ -14,6 +15,7 @@
 
 #### **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
