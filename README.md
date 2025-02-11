@@ -1,7 +1,9 @@
 ### 👋 Hello there, I'm Johan Hagman
 
 💻 **Fullstack Web Development Student** at Yrgo Yrkeshögskola  
+
 🚀 Learning both frontend and backend to build dynamic and responsive web applications
+
 🤝 I’m looking for an Internship for Dec 2025 - May 2026
 
 ---
