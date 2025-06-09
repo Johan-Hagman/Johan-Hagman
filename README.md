@@ -4,8 +4,6 @@
 
 🚀 Learning both frontend and backend to build dynamic and responsive web applications
 
-🤝 I’m looking for an Internship between nov 24th 2025 and may 29th 2026
-
 ---
 
 ### 🛠 Tech & Tools I Use
