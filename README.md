@@ -4,6 +4,7 @@
 
 🚀 Learning both frontend and backend to build dynamic and responsive web applications
 
+<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" alt="Coding gif"/>
 ---
 
 ### 🛠 Tech & Tools I Use
