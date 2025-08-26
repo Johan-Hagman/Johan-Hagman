@@ -1,7 +1,7 @@
 ### 👋 Hello there, I'm Johan Hagman
 
 💻 **Fullstack Web Development Student** at Yrgo Yrkeshögskola  
-Check out my npm package: [markdown-cli-tool](https://www.npmjs.com/package/markdown-cli-tool) 📦  
+📦 **Check out my npm package:** [markdown-cli-tool](https://www.npmjs.com/package/markdown-cli-tool)   
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Screen monitor gif"/>
 ---
