@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Johan Hagman
+### 👋 Hello World, I'm Johan Hagman
 
 💻 **Fullstack Web Development Student** at Yrgo Yrkeshögskola  
 📦 **Check out my npm package:** [markdown-cli-tool](https://www.npmjs.com/package/markdown-cli-tool)   
