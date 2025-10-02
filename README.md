@@ -34,6 +34,7 @@
 #### **Auth / Security**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3D6DE6?style=for-the-badge&logo=oauth&logoColor=white)
 
 #### **DevOps / Deployment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
