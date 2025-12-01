@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Johan Hagman
+### 👋 Hello I'm Johan Hagman
 
 💻 **Fullstack Web Development Student** at Yrgo Yrkeshögskola    
 
